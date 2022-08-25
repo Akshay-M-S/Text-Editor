@@ -35,7 +35,7 @@ public class test extends JFrame implements ActionListener{
 
  test(){//constructor
   this.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
-  this.setTitle("BNMIT-SS text Editor");
+  this.setTitle("Text Editor");
   this.setSize(500, 500); //size of the window
   this.setLayout(new FlowLayout());//FlowLayout() class: to arrange the components in a line, one after another (in a flow)
   //this.setLocationRelativeTo(null);
